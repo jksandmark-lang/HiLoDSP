@@ -10,7 +10,7 @@ Custom embedded DSP for HiLo sound
 
 ## Hardware
 
-- [amp.md](docs/amp.md) — outputs and headphone switching.
+- [stereoampcircuit.md](docs/stereoampcircuit.md) — outputs and headphone switching.
 
 ## Digital input
 

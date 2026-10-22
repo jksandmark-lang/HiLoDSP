@@ -2,7 +2,10 @@
 TARGET = HiLoDSP
 
 # Sources
-CPP_SOURCES = HiLoDSP.cpp
+CPP_SOURCES = HiLoDSP.cpp CrossoverProcessor.cpp MediaPlayer.cpp AudioClock.cpp
+
+# FatFs Unicode tables (ff_convert / ff_wtoupper) are not in libdaisy.a.
+C_SOURCES = ../../libDaisy/Middlewares/Third_Party/FatFs/src/option/unicode.c
 
 # Library Locations
 LIBDAISY_DIR = ../../libDaisy/

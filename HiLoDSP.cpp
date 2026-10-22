@@ -89,7 +89,7 @@ int main(void)
 
     // Play the first file on the card, if there is one.
     if(player.Init() && player.ScanDir("/") && player.FileCount() > 0
-       && player.Open(0))
+       && player.Open(static_cast<size_t>(0)))
     {
         ApplyRate(RateFor(player.SampleRate()));
     }

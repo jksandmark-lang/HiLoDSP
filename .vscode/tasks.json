@@ -10,9 +10,7 @@
       "options": {
         "cwd": "${workspaceFolder}"
       },
-      "problemMatcher": [
-        "$gcc"
-      ],
+      "problemMatcher": [],
       "type": "shell"
     },
     {
@@ -21,9 +19,7 @@
       "options": {
         "cwd": "${workspaceFolder}"
       },
-      "problemMatcher": [
-        "$gcc"
-      ],
+      "problemMatcher": [],
       "type": "shell"
     },
     {
@@ -32,9 +28,7 @@
       "options": {
         "cwd": "${workspaceFolder}"
       },
-      "problemMatcher": [
-        "$gcc"
-      ],
+      "problemMatcher": [],
       "type": "shell"
     },
     {
@@ -47,9 +41,7 @@
       "options": {
         "cwd": "${workspaceFolder}"
       },
-      "problemMatcher": [
-        "$gcc"
-      ],
+      "problemMatcher": [],
       "type": "shell"
     },
     {
@@ -62,9 +54,7 @@
       "options": {
         "cwd": "${workspaceFolder}"
       },
-      "problemMatcher": [
-        "$gcc"
-      ],
+      "problemMatcher": [],
       "type": "shell"
     },
     {
@@ -85,9 +75,7 @@
       "options": {
         "cwd": "${workspaceFolder}/../../libDaisy/"
       },
-      "problemMatcher": [
-        "$gcc"
-      ],
+      "problemMatcher": [],
       "type": "shell"
     },
     {
@@ -96,9 +84,7 @@
       "options": {
         "cwd": "${workspaceFolder}/../../DaisySP/"
       },
-      "problemMatcher": [
-        "$gcc"
-      ],
+      "problemMatcher": [],
       "type": "shell"
     }
   ],
